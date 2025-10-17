@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: grey;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+main {
+  margin: 40px auto;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: grey;
+}
